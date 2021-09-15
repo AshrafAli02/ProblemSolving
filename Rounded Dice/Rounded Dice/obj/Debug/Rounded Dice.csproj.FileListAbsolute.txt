@@ -1,0 +1,6 @@
+C:\Users\ashra\source\repos\Rounded Dice\Rounded Dice\bin\Debug\Rounded Dice.exe.config
+C:\Users\ashra\source\repos\Rounded Dice\Rounded Dice\bin\Debug\Rounded Dice.exe
+C:\Users\ashra\source\repos\Rounded Dice\Rounded Dice\bin\Debug\Rounded Dice.pdb
+C:\Users\ashra\source\repos\Rounded Dice\Rounded Dice\obj\Debug\Rounded Dice.csprojAssemblyReference.cache
+C:\Users\ashra\source\repos\Rounded Dice\Rounded Dice\obj\Debug\Rounded Dice.exe
+C:\Users\ashra\source\repos\Rounded Dice\Rounded Dice\obj\Debug\Rounded Dice.pdb
