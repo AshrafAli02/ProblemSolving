@@ -10,6 +10,8 @@ namespace AbstractClassExample
     {
         static void Main(string[] args)
         {
+            int number = 10;
+            Console.WriteLine(number);
         }
     }
     public abstract class Book
@@ -27,4 +29,6 @@ namespace AbstractClassExample
 
 
     }
+
+
 }
