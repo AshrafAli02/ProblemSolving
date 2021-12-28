@@ -1,0 +1,7 @@
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\HackerRank_Problems\HackerRank_Solutions\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
