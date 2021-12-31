@@ -20,6 +20,9 @@ namespace ConsoleApp1
             List<List<int>> resarr = Form2DArray(arr, 0, 1);
             int res = Get2DSum(arr);
             Console.WriteLine(res);
+
+            int[] arr5 = new int[] { 1, 2, 3 };
+            arr5.Sum();
             
         }
 
@@ -30,20 +33,14 @@ namespace ConsoleApp1
             {
                 arr.Add(Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList());
             }
-
-            int loop = 16;
             int Max = int.MinValue;
-            int row = 0;
-            int col = 0;
-            while(loop!=0)
+            for(int i=0;i<4;i++)
             {
-                int sum = 0;
-                for(int i=0;i<3;i++)
+                for(int j=0;j<4;j++)
                 {
-                    for(int j=0;j<3;j++)
-                    {
-
-                    }
+                    List<List<int>> temparr = Form2DArray(arr, i, j);
+                    int sum = Get2DSum(temparr);
+                    Max = Math.Max(Max, sum);
                 }
             }
         }

@@ -14,21 +14,15 @@ namespace AbstractClassExample
             Console.WriteLine(number);
         }
     }
+    
+
+    
     public abstract class Book
     {
-
-        protected String title;
-        protected String author;
-
-        public Book(String t, String a)
-        {
-            title = t;
-            author = a;
-        }
-        public abstract void display();
-
-
+        private int id { get; set; }
+        public abstract string Name{get;set;}
+       
     }
-
+        
 
 }

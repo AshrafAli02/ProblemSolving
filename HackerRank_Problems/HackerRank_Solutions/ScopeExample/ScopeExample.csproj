@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ABC7E488-F2E5-4A61-BE33-FB7B6D2EACA6}</ProjectGuid>
+    <ProjectGuid>{EC27142B-EDAF-4B89-BC9B-54D4B96664D2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractClassExample</RootNamespace>
-    <AssemblyName>AbstractClassExample</AssemblyName>
+    <RootNamespace>ScopeExample</RootNamespace>
+    <AssemblyName>ScopeExample</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyBook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
