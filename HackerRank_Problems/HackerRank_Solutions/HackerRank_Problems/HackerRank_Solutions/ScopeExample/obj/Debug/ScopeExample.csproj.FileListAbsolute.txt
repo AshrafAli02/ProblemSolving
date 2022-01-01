@@ -1,0 +1,7 @@
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\bin\Debug\ScopeExample.exe.config
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\bin\Debug\ScopeExample.exe
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\bin\Debug\ScopeExample.pdb
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\obj\Debug\ScopeExample.csproj.AssemblyReference.cache
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\obj\Debug\ScopeExample.csproj.CoreCompileInputs.cache
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\obj\Debug\ScopeExample.exe
+F:\HackerRank_Problems\HackerRank_Solutions\ScopeExample\obj\Debug\ScopeExample.pdb
