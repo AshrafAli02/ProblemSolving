@@ -1,0 +1,7 @@
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\bin\Debug\Palindrom_Using_Stack.exe.config
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\bin\Debug\Palindrom_Using_Stack.exe
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\bin\Debug\Palindrom_Using_Stack.pdb
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\obj\Debug\Palindrom_Using_Stack.csproj.AssemblyReference.cache
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\obj\Debug\Palindrom_Using_Stack.csproj.CoreCompileInputs.cache
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\obj\Debug\Palindrom_Using_Stack.exe
+F:\HackerRank_Problems\HackerRank_Solutions\Palindrom_Using_Stack\obj\Debug\Palindrom_Using_Stack.pdb
