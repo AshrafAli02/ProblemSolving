@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInt", "StringToInt\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom_Using_Stack", "Palindrom_Using_Stack\Palindrom_Using_Stack.csproj", "{1D538DC4-85DE-4EAE-8329-63080011DFE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterFace_Example", "InterFace_Example\InterFace_Example.csproj", "{8AAB3AFF-1A19-4F0D-9AFD-4F6FA2AD472E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1D538DC4-85DE-4EAE-8329-63080011DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D538DC4-85DE-4EAE-8329-63080011DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D538DC4-85DE-4EAE-8329-63080011DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAB3AFF-1A19-4F0D-9AFD-4F6FA2AD472E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAB3AFF-1A19-4F0D-9AFD-4F6FA2AD472E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAB3AFF-1A19-4F0D-9AFD-4F6FA2AD472E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAB3AFF-1A19-4F0D-9AFD-4F6FA2AD472E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
